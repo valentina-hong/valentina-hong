@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ACBDA1&center=true&width=500&lines=Valentina+Hong+\:\))](https://git.io/typing-svg)
 
 <!--
 **valentina-hong/valentina-hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
